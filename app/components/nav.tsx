@@ -4,6 +4,9 @@ const navItems = {
   '/': {
     name: 'home',
   },
+  // '/open-source': {
+  //   name: 'open source'
+  // }
   // '/blog': {
   //   name: 'blog',
   // },
